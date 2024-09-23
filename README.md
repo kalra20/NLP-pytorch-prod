@@ -1,13 +1,9 @@
 # NLP-pytorch-prod
 
-<!-- Building skeleton of NLP models -->
-
-Evaluation
-
-Tests [Unit+Integration]
-
 NLP-PyTorch-Prod
 A production-level Natural Language Processing (NLP) project built with PyTorch, focusing on data processing, model development, evaluation, and testing.
+
+<!-- Building skeleton of NLP models -->
 
 Table of Contents
 Overview
